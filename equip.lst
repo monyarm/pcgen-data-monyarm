@@ -1,0 +1,1 @@
+Astrolabe (Fixed)		TYPE:Goods.General									COST:1000	WT:6					SOURCEPAGE:p.5	SPROP:Allows to use Int mod instead of Wis on Survival to avoid getting lost.	BONUS:SKILL|Survival|max(0,INT-WIS)

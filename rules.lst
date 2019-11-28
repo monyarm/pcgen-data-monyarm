@@ -1,0 +1,2 @@
+Feat Tax						KEY:Optional Rules Feat Tax	CATEGORY:Internal		TYPE:OptionalRules	DESC:JessesD&D feat tax rules.			ABILITY:FEAT|AUTOMATIC|Agile Maneuvers	ABILITY:FEAT|AUTOMATIC|Combat Expertise	ABILITY:FEAT|AUTOMATIC|Power Attack	ABILITY:FEAT|AUTOMATIC|Weapon Finesse																											COST:0
+Combat Expertise						KEY:Feat Tax - Combat Expertise	CATEGORY:Internal		TYPE:OptionalRules	DESC:JessesD&D feat tax rules.	VISIBLE:NO	PREATT:1	ABILITY:FEAT|AUTOMATIC|Combat Expertise																											COST:0
