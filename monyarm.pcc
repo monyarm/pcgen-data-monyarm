@@ -22,5 +22,6 @@ RACE:*/_universal/races.lst
 
 
 ABILITY:rules.lst
+ABILITY:feats.lst
 EQUIPMENT:equip.lst
 DEITY:deities.lst
