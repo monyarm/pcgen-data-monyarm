@@ -1,0 +1,6 @@
+Calling Card		CATEGORY:FEAT		TYPE:Feat																																																																																																																																																																																											SOURCEPAGE:p.168
+Connoiseur		CATEGORY:FEAT		TYPE:Feat																																																																																																																																																																																											SOURCEPAGE:p.168
+
+CATEGORY=FEAT|Calling Card.MOD				DESC:Before a heist you may send a calling card to your target, when you do roll a Performance check (DC determined by DM), on a critical success you gain Advantage on Stealth, Sleight of Hand, Sleight of Hand, Thieves Tools, Deception, on a regular success to 2 of the above, on a fail to 1, on a crit fail you suffer disadvantage all of the above.
+CATEGORY=FEAT|Connoiseur.MOD				DESC:Because of your lineage, you are attuned to the finer things in life. Roll a d20 every time you loot any type of containment unit or environment. You get a better tier of items on a result of 15 or higher.
+
